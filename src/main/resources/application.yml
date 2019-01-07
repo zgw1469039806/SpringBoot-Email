@@ -1,0 +1,18 @@
+spring:
+  mail:
+    fromMail:
+      addr: 1469039806@qq.com
+    host: smtp.qq.com
+    username: 1469039806@qq.com
+    password: bmawrnmlatobhihc
+    default-encoding: UTF-8
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+mail:
+    fromMail:
+      addr: 1469039806@qq.com
